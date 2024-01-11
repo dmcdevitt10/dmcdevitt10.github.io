@@ -1,2 +1,3 @@
 have resume downloadable on click, put as "RESUME" next to email
 re do skills section
+make a projects section
